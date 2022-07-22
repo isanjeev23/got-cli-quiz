@@ -2,7 +2,7 @@ import readline from 'readline-sync';
 import chalk from 'chalk';
 
 
-console.log(chalk.blue.bgBlack.bold('Welcome to the to GOT Quiz Game!'));
+console.log(chalk.blue.bgBlack.bold('Welcome to the GOT Quiz Game!'));
 let userName = readline.question(chalk.blue('What is your name? '));
 console.log(chalk.green.bold(`Hello ${userName.toLocaleUpperCase()}!`));
 
