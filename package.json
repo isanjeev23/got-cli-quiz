@@ -1,0 +1,34 @@
+{
+  "name": "mark02",
+  "version": "1.0.0",
+  "description": "",
+  "exports" : "./index.js",
+  
+
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isanjeev23/mark02.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isanjeev23/mark02/issues"
+  },
+  "homepage": "https://github.com/isanjeev23/mark02#readme",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "readline-sync": "^1.4.10"
+  },
+
+  "devDependencies": {
+  "chalk":"5.0.1"
+  },
+
+  "type": "module"
+
+
+}
