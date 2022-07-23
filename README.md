@@ -1,6 +1,6 @@
-#Harry Potter Quiz 
+# Game of Thrones Quiz 
 <br>
-Neogcamp Assignment 2 : Game of Thrones Quiz CLI App
+Assignment 2 : Game of Thrones Quiz CLI [App](https://replit.com/@SANJEEVKUMAR50/markTwo?v=1)
 
 
 Libraries used:
